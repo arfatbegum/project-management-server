@@ -41,6 +41,12 @@
       "password": "$2a$10$Gk/J1YurXMklea0pJ874geK/pRCU5zppdCqbo7lSpXF9GxQBOxJ9a",
       "name": "Apon",
       "id": 7
+    },
+    {
+      "email": "arfatakter25@gmail.com",
+      "password": "$2a$10$xg6inHjq.1Ov.4ddXkgNU.ClpbTbSCAXplj0/UpLz7kudWlN/3R1C",
+      "name": "Arifa",
+      "id": 8
     }
   ],
   "teams": [
@@ -88,6 +94,22 @@
       ],
       "createdAt": "2022-09-26T19:23:19.376Z",
       "id": 3
+    },
+    {
+      "name": "dev",
+      "title": "Team Dev Sixer",
+      "color": "#FF0000",
+      "author": {
+        "email": "arfatakter25@gmail.com",
+        "name": "Arifa",
+        "id": 8
+      },
+      "members": [
+        "arfatakter25@gmail.com",
+        "arfat@mail.com"
+      ],
+      "createdAt": "2022-12-15T16:14:10.076Z",
+      "id": 4
     }
   ],
   "projects": [
